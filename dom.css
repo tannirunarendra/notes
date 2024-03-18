@@ -1,0 +1,24 @@
+.grandParent{
+    margin: auto;
+    background-color: rgb(247, 49, 49);
+    border: 3px solid black;
+    width: 400px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+}
+.parent{
+    background-color: rgb(58, 169, 58);
+    display: flex;
+    margin: auto;
+    height: 180px;
+    width: 300px;
+    border: 3px solid black;
+}
+.child{
+    background-color: rgb(79, 79, 164);
+    border: 3px solid black;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+}
